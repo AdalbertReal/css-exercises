@@ -18,7 +18,7 @@ Foundations
         07 flex layout 2
     intro to css
         01 css Methods - DONE
-        02 class id selectors
+        02 class id selectors - DONE
         03 grouping selectors
         04 chaining selectors
         05 descendant combinator
