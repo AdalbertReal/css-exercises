@@ -19,7 +19,7 @@ Foundations
     intro to css
         01 css Methods - DONE
         02 class id selectors - DONE
-        03 grouping selectors
+        03 grouping selectors - DONE
         04 chaining selectors
         05 descendant combinator
 Intermediate html css
