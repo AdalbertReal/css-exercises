@@ -20,7 +20,7 @@ Foundations
         01 css Methods - DONE
         02 class id selectors - DONE
         03 grouping selectors - DONE
-        04 chaining selectors
+        04 chaining selectors - DONE
         05 descendant combinator
 Intermediate html css
     advanced grid
