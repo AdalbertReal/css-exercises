@@ -20,8 +20,8 @@ Foundations
         01 css Methods - DONE
         02 class id selectors - DONE
         03 grouping selectors - DONE
-        04 chaining selectors - DONE
-        05 descendant combinator
+        04 chaining selectors - DONE ez
+        05 descendant combinator - DONE even ezier
 Intermediate html css
     advanced grid
         01 responsive holy grail
