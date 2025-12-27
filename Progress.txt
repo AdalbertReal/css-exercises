@@ -7,7 +7,7 @@ Foundations
         01 margins and padding 1
         02 margins and padding 2
     cascade
-        cascade fix
+        cascade fix - DONE
     flex
         01 flex center
         02 flex header
