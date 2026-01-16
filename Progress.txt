@@ -4,8 +4,8 @@ Advanced html css
     03 dropdown menu
 Foundations
     block and Inline
-        01 margins and padding 1
-        02 margins and padding 2
+        01 margins and padding 1 - DONE
+        02 margins and padding 2 - DONE
     cascade
         cascade fix - DONE
     flex
